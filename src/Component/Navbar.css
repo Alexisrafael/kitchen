@@ -11,7 +11,7 @@
     font-size: 20px;
     margin: 15px;
     color: rgb(0, 0, 0);
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-family: 'Lobster', cursive;
 }
 
@@ -54,7 +54,6 @@
     .nav_items a{
         color: black;
     }
-
 
     .nav_items.open{
         transform: translateX(0) !important;
