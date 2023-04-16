@@ -37,21 +37,21 @@
         },
         {
             "id": 6,
-            "image":[""],
+            "image":["https://res.cloudinary.com/dgo96kikm/image/upload/v1681622584/WhatsApp_Image_2023-04-14_at_10.06.39_AM_d14mlf.jpg"],
             "name": "seis",
             "description": "",
             "fabrics": ""
         },
         {
             "id": 7,
-            "image":[""],
+            "image":["https://res.cloudinary.com/dgo96kikm/image/upload/v1681613957/clipart3451751_b5tjdn.png"],
             "name": "siete",
             "description": "",
             "fabrics": ""
         },
         {
             "id": 8,
-            "image":[""],
+            "image":["https://res.cloudinary.com/dgo96kikm/image/upload/v1681614796/clipart67671_p36gn7.png"],
             "name": "ocho",
             "description": "",
             "fabrics": ""

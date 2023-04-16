@@ -15,7 +15,7 @@
     border: 0.1rem solid rgb(235, 208, 156);
     border-radius: 0.2rem;
     margin: 1rem;
-    background-color: bisque;
+    background-color: rgba(255, 228, 196, 0.827);
     box-shadow: 0px 1px 2px rgb(124, 124, 124), 1px 2px 4px rgb(124, 124, 124), 2px 4px 6px rgb(124, 124, 124);
 }
 
@@ -25,7 +25,19 @@
     border-radius: 0.2rem;
 }
 
+.conten div span{
+    margin-top: 1rem;
+    margin-bottom: 1rem
+}
 
+.conten div a{
+    color: black;
+    text-decoration: none;
+}
+
+.conten div a:hover{
+    color:rgb(255, 94, 0)
+}
 
 @media (max-width: 768px){
     .card {
@@ -40,7 +52,7 @@
         padding: 0.5rem;
         width: 18rem;
         height: 15rem;
-        border: 0.1rem solid rgb(235, 208, 156);
+        border: 0.1rem solid rgba(235, 207, 156, 0.808);
         border-radius: 0.2rem;
         box-shadow: 0px 1px 2px rgb(124, 124, 124), 1px 2px 4px rgb(124, 124, 124);
     }
@@ -54,12 +66,19 @@
     }
 
     .conten div a{
+        color:rgb(255, 94, 0);
         text-decoration: none;
     }
+
 
     .conten img{
         width: 18rem;
         height: 10rem;
         border-radius: 0.2rem;
+    }
+
+    .conten div span{
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem
     }
 }
