@@ -1,0 +1,60 @@
+{
+    "uniformes":[
+        {
+            "id": 1,
+            "image":["https://res.cloudinary.com/dgo96kikm/image/upload/v1681604139/cld-sample-4.jpg"],
+            "name": "uno",
+            "description": "",
+            "fabrics": ""
+        },
+        {
+            "id": 2,
+            "image":["https://res.cloudinary.com/dgo96kikm/image/upload/v1681604140/cld-sample-5.jpg"],
+            "name": "dos",
+            "description": "",
+            "fabrics": ""
+        },
+        {
+            "id": 3,
+            "image":["https://res.cloudinary.com/dgo96kikm/image/upload/v1681604138/cld-sample.jpg"],
+            "name": "tres",
+            "description": "",
+            "fabrics": ""
+        },
+        {
+            "id": 4,
+            "image":["https://res.cloudinary.com/dgo96kikm/image/upload/v1681604138/cld-sample-2.jpg"],
+            "name": "cuatro",
+            "description": "",
+            "fabrics": ""
+        },
+        {
+            "id": 5,
+            "image":["https://res.cloudinary.com/dgo96kikm/image/upload/v1681604115/sample.jpg"],
+            "name": "cinco",
+            "description": "",
+            "fabrics": ""
+        },
+        {
+            "id": 6,
+            "image":[""],
+            "name": "seis",
+            "description": "",
+            "fabrics": ""
+        },
+        {
+            "id": 7,
+            "image":[""],
+            "name": "siete",
+            "description": "",
+            "fabrics": ""
+        },
+        {
+            "id": 8,
+            "image":[""],
+            "name": "ocho",
+            "description": "",
+            "fabrics": ""
+        }
+    ]
+}
