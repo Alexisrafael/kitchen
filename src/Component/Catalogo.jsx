@@ -13,6 +13,8 @@ const Catalogo = () => {
                         <img width="50rem" height="50rem" src={a.image.map((a)=> a)} />
                         <div>
                             <span>{a.name}</span>
+                            <br/>
+                            <a href="https://api.whatsapp.com/send/?phone=573123847318&text=Hola%21+Estoy+interesado+en+los+precios+de +los+uniformes&app_absent=0" target="_blank">Para mayor informacion has click Aquí</a>
                         </div>
                     </div>
                 )
